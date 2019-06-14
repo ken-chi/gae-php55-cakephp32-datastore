@@ -8,7 +8,8 @@ use Gcp\Model\Table\DatastoreTable;
 class ***Table extends DatastoreTable {
 ```
 
-usage:
+usage:  
+authcomponent with datastore.  
 set key 'authenticate' value "Gcp.Datastore"
 ```
 config/app.php
